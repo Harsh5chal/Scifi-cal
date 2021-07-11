@@ -1,0 +1,113 @@
+body {
+    font-family: 'Open Sans',sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(back.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+button.clear {
+    background: #1fccf7;
+    color: #fff;
+}
+table {
+    background: black;
+    padding: 0px 10px;
+    border: 6px solid #00000000;
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow: 0px 0px 27px #0d5569;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+td{
+    padding: 10px;
+}
+
+button.equal:hover{
+	background: #000803;
+}
+input[type="text"] {
+    width: 100%;
+    height: 81px;
+    border: 1px solid #000;
+    padding: 10px 20px;
+    font-size: 29px;
+    background: #000000;
+    font-weight: bold;
+    margin-bottom: 25px;
+    font-family: cursive;
+    margin-top: 10px;
+    color: #dedede;
+    border-bottom: 2px solid #1fccf7;
+}
+button {
+    padding: 0px 10px;
+    width: 60px;
+    height: 60px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    background: #000803;
+    border-radius: 60px;
+    border-color: black;
+    cursor: pointer;
+    font-size: 20px;
+	background-color: #e2e2e2;
+}
+button:hover{
+	background: #c9bfbc;
+}
+#tan
+  {
+    background-color: orange;
+  }
+#sin
+  {
+    background-color: orange;
+  }
+#cos
+{
+   background-color: orange;
+}
+#m
+{
+   background-color: #ff6e40;
+}
+#p
+{
+   background-color: #ff6e40;
+}
+#d
+{
+   background-color: #ff6e40;
+}
+#mu
+{
+   background-color: #ff6e40;
+}
+#per
+{
+   background-color: #ff6e40;
+}
+#sq
+{
+   background-color: #ff6e40;
+}
+#sq2
+{
+   background-color: #ff6e40;
+}
+#sq3
+{
+   background-color: orange;
+}
+#sq4
+{
+   background-color: black;
+}
+#eq
+{
+   background-color: #1fccf7;
+   border-radius: 8px;
+   width: 150px;
+   font-size: 50px;
+}
